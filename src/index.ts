@@ -19,6 +19,7 @@ import { manejoDeErroresGlobales } from './middlewares/genericMiddleware';
 import miCuentaRoutes from './routes/miCuenta.routes';
 import enumsRoutes from './routes/enums.route';
 import turnosRoutes from './routes/turnos.routes';
+import demoRoutes from './routes/api/demo.routes';
 
 export const app = express();
 export const PORT = process.env.PORT || 3000;
@@ -34,6 +35,10 @@ app.use(express.urlencoded({ extended: false }));
 
 // Rutas públicas
 app.use('/api/auth', authRoutes);
+
+if (process.env.DEMO_MODE === 'true') {
+  app.use('/api/demo', demoRoutes);
+}
 
 // Verificamos JWT
 app.use(verifyJWT);
