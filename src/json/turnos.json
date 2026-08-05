@@ -1,0 +1,4139 @@
+[
+  {
+    "_id": "55309ad310e547a2a4142307",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a1",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "0bb1d635719940338f371f6d",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a1",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "e5dbb19a564743ada346c1f6",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a1",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "cf6e5bc8aca448e1b1b8d097",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a1",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3abd92ac66f74efd88b5cdc5",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a1",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0619a854ff2c4c5694b4d5ef",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a2",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "76b29e274bd440e792846548",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a2",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "b59fb972f00745fb819abd53",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a2",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "30532a2b2c5742aab85b5dbe",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a2",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7c2a859151ac4e51a807527e",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a2",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "71ac6975db9447239aa81cd0",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a3",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "d6eeb16e6d2a4bf695b9c3d7",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a3",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "8b3c01752f174fd9acb7f7fe",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a3",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c7befa9f7f75459792340bde",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a3",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "cf0ca5ca15ef49198e4fa4ff",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a3",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "986307d5d6394ac6807b5712",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a4",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "5675ddf34ac84cc090a1dac5",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a4",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "5c80bb521411438298ce9205",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a4",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "798490de71924c0897eb1f96",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a4",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "4ac59b6a00df486991bc874a",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a4",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8c547af3380d4cecbf6ec1f7",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a5",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "d605a4cba50e4a1e97fd4291",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a5",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "758185cc49b348fb936c137b",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a5",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6fef507023e04a5ebe40d52d",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a5",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "498a39811e634a42b550cc18",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a5",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e29d0aa088584521ad3c8656",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a6",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "e3f2850fe7dc4727a2bf5d83",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a6",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "eda0c6c300ff473296afab3f",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a6",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c05bb12e02a34bb7b49b0dc6",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a6",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7cc8b5de51354305ab878e2b",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a6",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7d2eeec20a1143f3b4f275f5",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a7",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "ec945aaa430241c8895a2574",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a7",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "57f47adc367f448fabfd3d81",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a7",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "ad6ea250bc1f404ea26b03f8",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a7",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b92f3bd4e3b8453c8e0b8f15",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a7",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "dbe05155b899484e8587bcd3",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a8",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "97741009295545e6bdab46d0",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a8",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "73149b390e3b45898b19ae0d",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a8",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9b96e9cdcaec4ea3a21e04b9",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a8",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "38e5e3713efc4ee1a14a2712",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a8",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c8dc0bde997547069cbfc3f4",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a9",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "03424e8bbf18475d97a4164e",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a9",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "680a03f71d8340279ded3c42",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a9",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a414d1e0a05341f49ea45951",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a9",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "58dce3f892fb48888215c4c8",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a9",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d2546a4b960c40678e239a0e",
+    "idPrestador": "adc03457be144b0f8d3a14b1",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "bac36523faaa4ec485087b66",
+    "idPrestador": "adc03457be144b0f8d3a14b1",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "eb98c1c6d0c341df9474dd81",
+    "idPrestador": "adc03457be144b0f8d3a14b1",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "17c93ff483c64d1ca64bd879",
+    "idPrestador": "adc03457be144b0f8d3a14b1",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "722abd184e234d568d16beeb",
+    "idPrestador": "adc03457be144b0f8d3a14b1",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5645d43495914f4bbb53ac13",
+    "idPrestador": "2e14550c4e714329921f2443",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "c493aa9904e24280a01d3e06",
+    "idPrestador": "2e14550c4e714329921f2443",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "76a80eb80a024b7ab32f1295",
+    "idPrestador": "2e14550c4e714329921f2443",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b5bab117ee2e4c4ba127829b",
+    "idPrestador": "2e14550c4e714329921f2443",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "fc3747a5c2c74af09cb97050",
+    "idPrestador": "2e14550c4e714329921f2443",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3bc768891d3b4f389018c2fb",
+    "idPrestador": "08f7ebc279b441b6831c0d8a",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "71a32632c7294596be28a8a5",
+    "idPrestador": "08f7ebc279b441b6831c0d8a",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "d05115d25de741c188c91579",
+    "idPrestador": "08f7ebc279b441b6831c0d8a",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2c2798d4503c4fccbb97d6a5",
+    "idPrestador": "08f7ebc279b441b6831c0d8a",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1b0944a662eb411fb328e17c",
+    "idPrestador": "08f7ebc279b441b6831c0d8a",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "35c45cc5f79d4e5dadf45ce8",
+    "idPrestador": "00019ca82ab84034b7eebaee",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "f3c0d1bb048e47608a775c23",
+    "idPrestador": "00019ca82ab84034b7eebaee",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "550370aa2b1440588d7f2bfe",
+    "idPrestador": "00019ca82ab84034b7eebaee",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c3da46cf122543ad940ece4d",
+    "idPrestador": "00019ca82ab84034b7eebaee",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8c9830bf1cd240cd9758694b",
+    "idPrestador": "00019ca82ab84034b7eebaee",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "94865dc7aee74be0854e6061",
+    "idPrestador": "433baa740a084beeb17ebd88",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "bb92b076e3dc4285b805280c",
+    "idPrestador": "433baa740a084beeb17ebd88",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "1ce5aa1758954889a1c0eae3",
+    "idPrestador": "433baa740a084beeb17ebd88",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "be6a092c4f0c43af8baa541e",
+    "idPrestador": "433baa740a084beeb17ebd88",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "97926c5fe6fb4510a4384ce2",
+    "idPrestador": "433baa740a084beeb17ebd88",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b891111f7f43430b9eea67f8",
+    "idPrestador": "7021d67664fe4502acc8233d",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "bd017b77cb78482ea3852c06",
+    "idPrestador": "7021d67664fe4502acc8233d",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "9fa32ffe8c9f43b2b16ce9df",
+    "idPrestador": "7021d67664fe4502acc8233d",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d8467d063cd143ddb7cc321b",
+    "idPrestador": "7021d67664fe4502acc8233d",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1f2107198376492e81c914f3",
+    "idPrestador": "7021d67664fe4502acc8233d",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "667f700477514192b0eaebf3",
+    "idPrestador": "42b627be8eba482ab17ecd3e",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "6f1d6f4ce6e441c8946fec24",
+    "idPrestador": "42b627be8eba482ab17ecd3e",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "710d0b5285ff4471bb396aaf",
+    "idPrestador": "42b627be8eba482ab17ecd3e",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "ff0de5bc4c7045ac99b100f1",
+    "idPrestador": "42b627be8eba482ab17ecd3e",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "180b1025398b468183d2a212",
+    "idPrestador": "42b627be8eba482ab17ecd3e",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a6de05df383a41129d4194e6",
+    "idPrestador": "074ce9f6976d4aa1bfeca9a3",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "9e864e2cc01c4617b62b2a10",
+    "idPrestador": "074ce9f6976d4aa1bfeca9a3",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "f6c1d44a93e040d196277e9f",
+    "idPrestador": "074ce9f6976d4aa1bfeca9a3",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c637d80cbf0a4eb180fb9812",
+    "idPrestador": "074ce9f6976d4aa1bfeca9a3",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "31f88f124e4d4923a3bf660f",
+    "idPrestador": "074ce9f6976d4aa1bfeca9a3",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f272eaed6b2f4a3ea9801709",
+    "idPrestador": "a7f244223af84cb7a554b83c",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "366e7a7a16114074aa05e67c",
+    "idPrestador": "a7f244223af84cb7a554b83c",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "c83610f2f28a4c0d978f6706",
+    "idPrestador": "a7f244223af84cb7a554b83c",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "108d336bde2141c491099bcd",
+    "idPrestador": "a7f244223af84cb7a554b83c",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0a513402483344ee8b4fc01d",
+    "idPrestador": "a7f244223af84cb7a554b83c",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "ebd3e0305f4b4105a506b8d9",
+    "idPrestador": "ba0ff78a717941029aa9466c",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "92313e6c719b4807a288b9cf",
+    "idPrestador": "ba0ff78a717941029aa9466c",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "4ea0af36fc9b4d9a9f884c12",
+    "idPrestador": "ba0ff78a717941029aa9466c",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "142b9972c4e94f3892ac7379",
+    "idPrestador": "ba0ff78a717941029aa9466c",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f9e7e61ae39b49cead76fb6a",
+    "idPrestador": "ba0ff78a717941029aa9466c",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3fcca18a17114d8da8efed68",
+    "idPrestador": "f049b3fb0e3d42bc9f3ec120",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "ced4f7fa95ae4481a2bb6066",
+    "idPrestador": "f049b3fb0e3d42bc9f3ec120",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "c204d35a49ef481c9b04a3e1",
+    "idPrestador": "f049b3fb0e3d42bc9f3ec120",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0b2068ca933c4d65b60f2cf0",
+    "idPrestador": "f049b3fb0e3d42bc9f3ec120",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "68895dba6c35444197bfd3be",
+    "idPrestador": "f049b3fb0e3d42bc9f3ec120",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5a5a4fb4ddc44582acea216d",
+    "idPrestador": "fd44e06513ff4b5fa223c959",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "aa03b0b2d2ca490fbffda4b8",
+    "idPrestador": "fd44e06513ff4b5fa223c959",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "7e5304a6f54540a192a9c995",
+    "idPrestador": "fd44e06513ff4b5fa223c959",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6ae6f96f1838444ca0bb4101",
+    "idPrestador": "fd44e06513ff4b5fa223c959",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "57040d0a03b44a0faa4c2fbb",
+    "idPrestador": "fd44e06513ff4b5fa223c959",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f25a65024b1f4c47b5d70893",
+    "idPrestador": "0490a706a39b42f49347e9e4",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "248b85e2bc744e62a2c39676",
+    "idPrestador": "0490a706a39b42f49347e9e4",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "dd5dd9485f8e43c8b7f07308",
+    "idPrestador": "0490a706a39b42f49347e9e4",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "07041bd8f9b341bfa61234c6",
+    "idPrestador": "0490a706a39b42f49347e9e4",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "35bfd641f96b4ac48ae6402a",
+    "idPrestador": "0490a706a39b42f49347e9e4",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "160ce4007b014ea69f1b7ee6",
+    "idPrestador": "aa748cec4ba445e6a0adb91d",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "68078908cc8c4b4e809473dc",
+    "idPrestador": "aa748cec4ba445e6a0adb91d",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "35339d2bb5e44385b25de7eb",
+    "idPrestador": "aa748cec4ba445e6a0adb91d",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1daa625ae52c49e09377f1d5",
+    "idPrestador": "aa748cec4ba445e6a0adb91d",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "fab3222369ae4c548f179203",
+    "idPrestador": "aa748cec4ba445e6a0adb91d",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "787964812ff641ad8b25daf2",
+    "idPrestador": "ca033f2025654db0bd6960b6",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "69ef55c8ddf045dcbd81c543",
+    "idPrestador": "ca033f2025654db0bd6960b6",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "33edd0e7b8eb44d5b5be365e",
+    "idPrestador": "ca033f2025654db0bd6960b6",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3ac465372663440584634427",
+    "idPrestador": "ca033f2025654db0bd6960b6",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f674fb28aa3a423c941ef638",
+    "idPrestador": "ca033f2025654db0bd6960b6",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0e4bf134558d401b8aa7a2ec",
+    "idPrestador": "83a2529ef4f042e8b2c1b074",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "a11fddb84734449caefa3c06",
+    "idPrestador": "83a2529ef4f042e8b2c1b074",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "e5df244399e34e93945895a9",
+    "idPrestador": "83a2529ef4f042e8b2c1b074",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e8735d6d36434d78a079662e",
+    "idPrestador": "83a2529ef4f042e8b2c1b074",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a700898e8efe4fbeabdd2c10",
+    "idPrestador": "83a2529ef4f042e8b2c1b074",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "383ead2b4e1943828da24156",
+    "idPrestador": "d0334a692919497982f66914",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "62f8d83ca1654aab9ffe347c",
+    "idPrestador": "d0334a692919497982f66914",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "3f643be791074bea92dbe309",
+    "idPrestador": "d0334a692919497982f66914",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3f67ec0a57f4402dbb0baade",
+    "idPrestador": "d0334a692919497982f66914",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "44c58722c4bc4cb3aeb6f30f",
+    "idPrestador": "d0334a692919497982f66914",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "4abaf549b0df4eb7becd9356",
+    "idPrestador": "6a0dfee594a946e78eb7d511",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "6cbe2a31ffa14f1d82309176",
+    "idPrestador": "6a0dfee594a946e78eb7d511",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "147852e3c1994223aac02955",
+    "idPrestador": "6a0dfee594a946e78eb7d511",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c57e2e820f76430eb02be52c",
+    "idPrestador": "6a0dfee594a946e78eb7d511",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2fcaec81c2b5412aa8b0d11f",
+    "idPrestador": "6a0dfee594a946e78eb7d511",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "fe43d43acfd74ba3af820cf5",
+    "idPrestador": "46d69215ded340dd86e1aa71",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "3460aa28110a45098a30fc3a",
+    "idPrestador": "46d69215ded340dd86e1aa71",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "aaee3b118a0548c8b0981b6d",
+    "idPrestador": "46d69215ded340dd86e1aa71",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "35bef4c71603446ea6bbd484",
+    "idPrestador": "46d69215ded340dd86e1aa71",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "05728607ceb04473ac77b4de",
+    "idPrestador": "46d69215ded340dd86e1aa71",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "baa235c9cb86487c8e288419",
+    "idPrestador": "880c96c672ea4a90ab6b55ef",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "917f7010604b482eaa2aeac8",
+    "idPrestador": "880c96c672ea4a90ab6b55ef",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "7235c092b85d42e696a016f8",
+    "idPrestador": "880c96c672ea4a90ab6b55ef",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "cbd08446513744ca95bc3d1f",
+    "idPrestador": "880c96c672ea4a90ab6b55ef",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "799bea70d4bf4a6a94899a38",
+    "idPrestador": "880c96c672ea4a90ab6b55ef",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c1a7e439392a40698df75586",
+    "idPrestador": "4f6fd9104528486698ff0e12",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "14f851d509f544339ddbd50d",
+    "idPrestador": "4f6fd9104528486698ff0e12",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "8626f415ca344f5fbc4c7a29",
+    "idPrestador": "4f6fd9104528486698ff0e12",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "eff20d34ad6d47d59f127f4d",
+    "idPrestador": "4f6fd9104528486698ff0e12",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "eef111bf9dd24f3897f3871d",
+    "idPrestador": "4f6fd9104528486698ff0e12",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "70bc555aa6f1437d866ee070",
+    "idPrestador": "254b8f0d42544b8d8f3d8666",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "77382f19b2b1434281df51e3",
+    "idPrestador": "254b8f0d42544b8d8f3d8666",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "120108cf186443eab69f780d",
+    "idPrestador": "254b8f0d42544b8d8f3d8666",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "ba90c38584f843c5b3c7df36",
+    "idPrestador": "254b8f0d42544b8d8f3d8666",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d50871b2eec747b596aaa3a3",
+    "idPrestador": "254b8f0d42544b8d8f3d8666",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7a27b26107f34f91ab899426",
+    "idPrestador": "5b04b4f1a16545e2bf7b4007",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "95c11ef332524f4a95cccf28",
+    "idPrestador": "5b04b4f1a16545e2bf7b4007",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "70b8852eed51480c95b3dece",
+    "idPrestador": "5b04b4f1a16545e2bf7b4007",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3ba5dfe904104cc99601bb27",
+    "idPrestador": "5b04b4f1a16545e2bf7b4007",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "055718ec4d9a44d7aa3bf2b0",
+    "idPrestador": "5b04b4f1a16545e2bf7b4007",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "63faf02c269c49eebea339aa",
+    "idPrestador": "91798115b7f74cf185e57687",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "f1324da7d8fc48e695156b5f",
+    "idPrestador": "91798115b7f74cf185e57687",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "a7803cef47004e7193220e3e",
+    "idPrestador": "91798115b7f74cf185e57687",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a7b05db8978d4fb2aa96ecdb",
+    "idPrestador": "91798115b7f74cf185e57687",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5cafeb9859fb48ee8be16f4f",
+    "idPrestador": "91798115b7f74cf185e57687",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8fb950ec5e1847359981455d",
+    "idPrestador": "d1b2c1d2a696487a867bc194",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "4122356f13d54264aef25eaa",
+    "idPrestador": "d1b2c1d2a696487a867bc194",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "bf0fc52096bf4a89a3de3324",
+    "idPrestador": "d1b2c1d2a696487a867bc194",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5238e97526e040d4b235aa7b",
+    "idPrestador": "d1b2c1d2a696487a867bc194",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f8e8a218d2b64ce28be7cce6",
+    "idPrestador": "d1b2c1d2a696487a867bc194",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2a0806eaa66b46f6815af09f",
+    "idPrestador": "090c1f6c691c422a9b71d79d",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "ff0059c4029b49fe84e4d7f4",
+    "idPrestador": "090c1f6c691c422a9b71d79d",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "5f1eda28a21c4241becf4de2",
+    "idPrestador": "090c1f6c691c422a9b71d79d",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "4d157d42c4554f8f910ce140",
+    "idPrestador": "090c1f6c691c422a9b71d79d",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c1d297121eeb4be2817a188e",
+    "idPrestador": "090c1f6c691c422a9b71d79d",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f5a4cf354dbc4fb6b290fbb6",
+    "idPrestador": "95feb22ef36c4af7b087fcf9",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "a23ae8c5c0f7411b8b6932a7",
+    "idPrestador": "95feb22ef36c4af7b087fcf9",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "7a3da051e72d4348a2194ea2",
+    "idPrestador": "95feb22ef36c4af7b087fcf9",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b186b842dc8642b681e171ff",
+    "idPrestador": "95feb22ef36c4af7b087fcf9",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9eb8cb14a3f54a6ebd4c1d21",
+    "idPrestador": "95feb22ef36c4af7b087fcf9",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "54197f714b5c40ca93cb4d5c",
+    "idPrestador": "668fb1c47a6c458fb67071f6",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "6d8e4d376bcb429780c35e57",
+    "idPrestador": "668fb1c47a6c458fb67071f6",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "2c87e19291d24c468d69ffff",
+    "idPrestador": "668fb1c47a6c458fb67071f6",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b61c3200e20c4f3682d13570",
+    "idPrestador": "668fb1c47a6c458fb67071f6",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c23dd5c150b74d1393133af2",
+    "idPrestador": "668fb1c47a6c458fb67071f6",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "31cddcb2c88f458ab33f52b9",
+    "idPrestador": "b9ab941290be40c7a7ee18a2",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "d6b13fd228384bb396cf731d",
+    "idPrestador": "b9ab941290be40c7a7ee18a2",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "1f42f9b8c01f4db09945c07f",
+    "idPrestador": "b9ab941290be40c7a7ee18a2",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d3647f3322544f5eaa7a680a",
+    "idPrestador": "b9ab941290be40c7a7ee18a2",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "95997a0ba4124454a5b0dba6",
+    "idPrestador": "b9ab941290be40c7a7ee18a2",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "dad6c025d48c4f58b3f0b500",
+    "idPrestador": "bfaa0daf26ca47318e866d19",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "846ac0b4fea3491fbedf01a7",
+    "idPrestador": "bfaa0daf26ca47318e866d19",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "4181f61f8a6140f9992aec20",
+    "idPrestador": "bfaa0daf26ca47318e866d19",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "effa796c64b94b24aa275a39",
+    "idPrestador": "bfaa0daf26ca47318e866d19",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "07d451c45b8d43e6bade1546",
+    "idPrestador": "bfaa0daf26ca47318e866d19",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "323d78ae2df44ef1af303f13",
+    "idPrestador": "a5e26049b5b542c3a145e69d",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "7b79ea35b78c434880f103d4",
+    "idPrestador": "a5e26049b5b542c3a145e69d",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "51a74a2d9fab4f9a8ecc47b6",
+    "idPrestador": "a5e26049b5b542c3a145e69d",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "438a303cd6be442ab10d39d3",
+    "idPrestador": "a5e26049b5b542c3a145e69d",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3ead59e6ed0e42d7be846ac8",
+    "idPrestador": "a5e26049b5b542c3a145e69d",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6d290ec484784cc687461d65",
+    "idPrestador": "263c8d1eec6c4b7a8fdd9728",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "aaa987de449b4ab283a49de1",
+    "idPrestador": "263c8d1eec6c4b7a8fdd9728",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "558a6eb745a241279707b305",
+    "idPrestador": "263c8d1eec6c4b7a8fdd9728",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d6a327918c904383ae33c3e7",
+    "idPrestador": "263c8d1eec6c4b7a8fdd9728",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7ce635ecf42a45f7a31a45c9",
+    "idPrestador": "263c8d1eec6c4b7a8fdd9728",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3878d8a6216049cc8d914c8d",
+    "idPrestador": "598702936dc94f3598578815",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "dc8b092acf1f4bc7bd853bcf",
+    "idPrestador": "598702936dc94f3598578815",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "41e67e036afa48df9641f706",
+    "idPrestador": "598702936dc94f3598578815",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "edc009da398f41eb9034186d",
+    "idPrestador": "598702936dc94f3598578815",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e48fe295bb334765b00d7c8c",
+    "idPrestador": "598702936dc94f3598578815",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8cbd1d88d25a4d96b6481d8d",
+    "idPrestador": "f0e44e02b67147d3b1c23c1b",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "e1e4cd75d8be4a3cb975d282",
+    "idPrestador": "f0e44e02b67147d3b1c23c1b",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "52777ba3492f45bf93fc8860",
+    "idPrestador": "f0e44e02b67147d3b1c23c1b",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "07146fa0662447388a1596e4",
+    "idPrestador": "f0e44e02b67147d3b1c23c1b",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "fc53273ae43141bba9c714f7",
+    "idPrestador": "f0e44e02b67147d3b1c23c1b",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "333d8b78d12e49d1ac48235e",
+    "idPrestador": "f2926ed893f2486abefc568c",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "2f70a0d9ac3e46f6abe793e6",
+    "idPrestador": "f2926ed893f2486abefc568c",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "ab6cb45bab4442fcb88f2fa3",
+    "idPrestador": "f2926ed893f2486abefc568c",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a36fabc8891e4582a7a3ca91",
+    "idPrestador": "f2926ed893f2486abefc568c",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3fe4d28ae415443b95fccea8",
+    "idPrestador": "f2926ed893f2486abefc568c",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "19bf9251eb9c47da92c1b1df",
+    "idPrestador": "2b5dc6f04b864b99bc1f7f03",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "8b703d1c4f204d9a94eeecf0",
+    "idPrestador": "2b5dc6f04b864b99bc1f7f03",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "bdaa423b61a0437986823176",
+    "idPrestador": "2b5dc6f04b864b99bc1f7f03",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "930380d4316a4a449fd301ee",
+    "idPrestador": "2b5dc6f04b864b99bc1f7f03",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "030d2e6800434bc99420e27a",
+    "idPrestador": "2b5dc6f04b864b99bc1f7f03",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b5a3206f13df4629ba463919",
+    "idPrestador": "3dbc2397afcd45a2aafba5dd",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "5058968014ab459d96f31454",
+    "idPrestador": "3dbc2397afcd45a2aafba5dd",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "9533b3b177e24ac9b7ed2e92",
+    "idPrestador": "3dbc2397afcd45a2aafba5dd",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9014ae80ba514f7c9b1cbf70",
+    "idPrestador": "3dbc2397afcd45a2aafba5dd",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "79e08bdba63f4497b3402dd4",
+    "idPrestador": "3dbc2397afcd45a2aafba5dd",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "19be3d7c6a4b4627a9f3776e",
+    "idPrestador": "ce10a1fb5b7f4b2a8449e455",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "64c764e4c8e44481b12cf330",
+    "idPrestador": "ce10a1fb5b7f4b2a8449e455",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "10702929bd604e91a1e58673",
+    "idPrestador": "ce10a1fb5b7f4b2a8449e455",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "016de0c284f44aa981e04ee9",
+    "idPrestador": "ce10a1fb5b7f4b2a8449e455",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "73306aa5a67c464bb2b0d86a",
+    "idPrestador": "ce10a1fb5b7f4b2a8449e455",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0e85f5154246452db1da112e",
+    "idPrestador": "50feceec3a7d404292b98d50",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "ab9a8e01abac496d8148dbfd",
+    "idPrestador": "50feceec3a7d404292b98d50",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "7dd6d15e495d42f996cb4cd8",
+    "idPrestador": "50feceec3a7d404292b98d50",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a9e0b406190d4bdfa63b2525",
+    "idPrestador": "50feceec3a7d404292b98d50",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "eeaa77b9ffe24e038cb4bf8e",
+    "idPrestador": "50feceec3a7d404292b98d50",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e37c7e76dc2442d3a59d0673",
+    "idPrestador": "3579a20489bc4a6bb715d440",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "fc3dc5fe9836405cb9a3f62d",
+    "idPrestador": "3579a20489bc4a6bb715d440",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "f35540842a8b4a0f8131af8d",
+    "idPrestador": "3579a20489bc4a6bb715d440",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "80486d845cab4972b014f829",
+    "idPrestador": "3579a20489bc4a6bb715d440",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "74901caa02294ed4933213f5",
+    "idPrestador": "3579a20489bc4a6bb715d440",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7e2a94b3d7e24594b91ae9cf",
+    "idPrestador": "f1496390753a4877bc96d58f",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "a27592c883ee46208affb4c4",
+    "idPrestador": "f1496390753a4877bc96d58f",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "03a0af8b83f8451f90777ecb",
+    "idPrestador": "f1496390753a4877bc96d58f",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9484c83440ad4a2382232072",
+    "idPrestador": "f1496390753a4877bc96d58f",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "844737b5b9ad4d18998f6a70",
+    "idPrestador": "f1496390753a4877bc96d58f",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e9996bd6b07e4acba8bb0b51",
+    "idPrestador": "17dd09b216284df29fac88cb",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "24a04100159044d6b73fd2e4",
+    "idPrestador": "17dd09b216284df29fac88cb",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "c1d1f931bba44eb79f124e3d",
+    "idPrestador": "17dd09b216284df29fac88cb",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "474f3d2245184c24808a6cb1",
+    "idPrestador": "17dd09b216284df29fac88cb",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3449b73469b34bfd8acb17ec",
+    "idPrestador": "17dd09b216284df29fac88cb",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a583959cbd26475688f7be04",
+    "idPrestador": "564b3109a2d7479e98f737a8",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "fb42ba207e35491bb0a32b64",
+    "idPrestador": "564b3109a2d7479e98f737a8",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "d4f223e8f143461293b1fb58",
+    "idPrestador": "564b3109a2d7479e98f737a8",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "39cb603d4e334c73827521fe",
+    "idPrestador": "564b3109a2d7479e98f737a8",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "feae3b14a7dc47cdb9e38901",
+    "idPrestador": "564b3109a2d7479e98f737a8",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6745377ccff04627bc63e4a7",
+    "idPrestador": "bf6f7909c083485d947145c5",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "0d6c2706f65f45c6b5a92aea",
+    "idPrestador": "bf6f7909c083485d947145c5",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "967e48d826984575ae2b2f4d",
+    "idPrestador": "bf6f7909c083485d947145c5",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6fceed10703743a48c2675d8",
+    "idPrestador": "bf6f7909c083485d947145c5",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "cdaf77cd7be74739a261285c",
+    "idPrestador": "bf6f7909c083485d947145c5",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "dab088a11f304f3fbbc10a79",
+    "idPrestador": "06db4409bfeb4bf3bab4da73",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "7f8b333a46b64cce88242250",
+    "idPrestador": "06db4409bfeb4bf3bab4da73",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "72d1ff07f98f4f428ea4b393",
+    "idPrestador": "06db4409bfeb4bf3bab4da73",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0da9b6523a234ea193a727c0",
+    "idPrestador": "06db4409bfeb4bf3bab4da73",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "bab6a837b8cf4daaa2287578",
+    "idPrestador": "06db4409bfeb4bf3bab4da73",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2730ba2323934b74a8fcb8b8",
+    "idPrestador": "bb05cbb7d06742cea0d8c7df",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "133bb8ca942c4b60ab0f3cdb",
+    "idPrestador": "bb05cbb7d06742cea0d8c7df",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "ea8ed8837f884f3fb1970af8",
+    "idPrestador": "bb05cbb7d06742cea0d8c7df",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8b1d2c41020449aa92029bfb",
+    "idPrestador": "bb05cbb7d06742cea0d8c7df",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "763cc16b31e24554b43b6e0f",
+    "idPrestador": "bb05cbb7d06742cea0d8c7df",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0309d231dfc74bbc9b9166eb",
+    "idPrestador": "caadb799432948f98370f13b",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "ac8cf85cebb4441e88bca296",
+    "idPrestador": "caadb799432948f98370f13b",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "7ba6eb7cf3394671ae4d8b84",
+    "idPrestador": "caadb799432948f98370f13b",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e91d01effa5a49f1b33cd806",
+    "idPrestador": "caadb799432948f98370f13b",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a5c1784d3a8a4936ad2dbe0e",
+    "idPrestador": "caadb799432948f98370f13b",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7cc5dc0c1d7f4f6a815402a3",
+    "idPrestador": "e67504664fcf4039a929fcd4",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "c50bc1c169d24564a4c6edec",
+    "idPrestador": "e67504664fcf4039a929fcd4",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "d4a696bee44c4530a4220a4a",
+    "idPrestador": "e67504664fcf4039a929fcd4",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f66db27caefa4028a168076e",
+    "idPrestador": "e67504664fcf4039a929fcd4",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b0c93776549d44c48d7040f0",
+    "idPrestador": "e67504664fcf4039a929fcd4",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "ee0103359bc445d181dd0239",
+    "idPrestador": "6ed048d558ce4c34870f1943",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "dfbc85e1d0e04733b77cb10e",
+    "idPrestador": "6ed048d558ce4c34870f1943",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "1d32e6ec0ef6412ebdfff239",
+    "idPrestador": "6ed048d558ce4c34870f1943",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "685da38b9a5b4d49b415d08b",
+    "idPrestador": "6ed048d558ce4c34870f1943",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2288b7ecdd2f47dd9672bd25",
+    "idPrestador": "6ed048d558ce4c34870f1943",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f0bf132cbf164d6cb2ce8934",
+    "idPrestador": "7f70035aaf9f4e54935c2a3f",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "327f0dae969f444a85d0254d",
+    "idPrestador": "7f70035aaf9f4e54935c2a3f",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "09797bfe90db419dacd1d34c",
+    "idPrestador": "7f70035aaf9f4e54935c2a3f",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "747236117cd546c588db8d48",
+    "idPrestador": "7f70035aaf9f4e54935c2a3f",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0e9f6560083e463d8c900866",
+    "idPrestador": "7f70035aaf9f4e54935c2a3f",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "752fad5c68f4456fab410f2c",
+    "idPrestador": "08e71bb14c014bedbf1f1de7",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "7f051e741b5a472d9a91212c",
+    "idPrestador": "08e71bb14c014bedbf1f1de7",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "02f3abbdeb034de084b5cbcf",
+    "idPrestador": "08e71bb14c014bedbf1f1de7",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "28ac10a3dfb7412e8adca719",
+    "idPrestador": "08e71bb14c014bedbf1f1de7",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "ac718e245dd7456db6cf256e",
+    "idPrestador": "08e71bb14c014bedbf1f1de7",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "074b5975bb114d6f97001fd2",
+    "idPrestador": "8dc19c4c371f4bd984b09253",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "177bc3a3c7374782a194e774",
+    "idPrestador": "8dc19c4c371f4bd984b09253",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "8028a03a3465485f86a76a2c",
+    "idPrestador": "8dc19c4c371f4bd984b09253",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0d3a0e479c0b4bdeb46139e4",
+    "idPrestador": "8dc19c4c371f4bd984b09253",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "07dd327bb769444a80ceadf3",
+    "idPrestador": "8dc19c4c371f4bd984b09253",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f16a1b04fc4a48afa0088114",
+    "idPrestador": "31620f5a67c04d0494481c15",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "998f203f68154d65a7216984",
+    "idPrestador": "31620f5a67c04d0494481c15",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "390bfa27f57543e7b8cb31cf",
+    "idPrestador": "31620f5a67c04d0494481c15",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b08794032aba4f4caff37a6c",
+    "idPrestador": "31620f5a67c04d0494481c15",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "225d0ee4a70e4a9c93ee97f0",
+    "idPrestador": "31620f5a67c04d0494481c15",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "05beedc8a6714f13b3929ace",
+    "idPrestador": "bfd8e1f7b22f4f15b2d4be75",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "3653b9bbdedf4933a2cd790c",
+    "idPrestador": "bfd8e1f7b22f4f15b2d4be75",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "e01c29cbbbda42c3910dbc71",
+    "idPrestador": "bfd8e1f7b22f4f15b2d4be75",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "321f724e779047d8a40f372d",
+    "idPrestador": "bfd8e1f7b22f4f15b2d4be75",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9ad76d17e68746759f89d346",
+    "idPrestador": "bfd8e1f7b22f4f15b2d4be75",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "83e800fa060e49c28e39cec4",
+    "idPrestador": "6f2fbaa0243e4186a7245a6d",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "15f70f955e134af6b880c5cd",
+    "idPrestador": "6f2fbaa0243e4186a7245a6d",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "e46530b94c2b4c58ab3981c0",
+    "idPrestador": "6f2fbaa0243e4186a7245a6d",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "822b282cbca740d0ad03fd8e",
+    "idPrestador": "6f2fbaa0243e4186a7245a6d",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "aff97a0543894b96b008a65a",
+    "idPrestador": "6f2fbaa0243e4186a7245a6d",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7c8560c3590e45a1b611968c",
+    "idPrestador": "c4cec548cd5147a992af2e0b",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "331fa4cfcba348bf8ada4ec2",
+    "idPrestador": "c4cec548cd5147a992af2e0b",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "b2615fc353f54b0083fb3d92",
+    "idPrestador": "c4cec548cd5147a992af2e0b",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "97b211ee3240435dbc2fc2c6",
+    "idPrestador": "c4cec548cd5147a992af2e0b",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c7b97bb537324af1928624cf",
+    "idPrestador": "c4cec548cd5147a992af2e0b",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "bd1743fd217748f0930fb0f3",
+    "idPrestador": "1184add593244b81823ddadf",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "094751aae04c429ca77fea02",
+    "idPrestador": "1184add593244b81823ddadf",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "a9521c8c5ac94c6a80444d7e",
+    "idPrestador": "1184add593244b81823ddadf",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c8f16bf67afb4127b85b7129",
+    "idPrestador": "1184add593244b81823ddadf",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9cb23ff483894e68b84d6cbd",
+    "idPrestador": "1184add593244b81823ddadf",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5a63939f71d645b98d26efb7",
+    "idPrestador": "d57eef1a69374e44bd12d4e3",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "361bf80fa3134a52985cf22e",
+    "idPrestador": "d57eef1a69374e44bd12d4e3",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "46f2e81f2b29446e9121828f",
+    "idPrestador": "d57eef1a69374e44bd12d4e3",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "624e3072bc2040b4a3d74800",
+    "idPrestador": "d57eef1a69374e44bd12d4e3",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1ae4eb909ac143ea93b160e6",
+    "idPrestador": "d57eef1a69374e44bd12d4e3",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "dbcf4e1081da4260ac84e036",
+    "idPrestador": "3c0c1453d1cb43129bc21877",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "2eb8101f41264ae3b9a52d6c",
+    "idPrestador": "3c0c1453d1cb43129bc21877",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "911e19008cc144df8641f44d",
+    "idPrestador": "3c0c1453d1cb43129bc21877",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "08e00ece22cf4c57831afe9b",
+    "idPrestador": "3c0c1453d1cb43129bc21877",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "49d16aaf51db4c2d88b50a34",
+    "idPrestador": "3c0c1453d1cb43129bc21877",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e8d91388aca840a6bc2e07b7",
+    "idPrestador": "134f582793ac4ab4910f15bf",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "14427269b55443e5a36d60e4",
+    "idPrestador": "134f582793ac4ab4910f15bf",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "79b567b165ee4ea481a7d88b",
+    "idPrestador": "134f582793ac4ab4910f15bf",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "235ab6b35be84a6e91daa1cd",
+    "idPrestador": "134f582793ac4ab4910f15bf",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "70eb88de76824986aa03ce9a",
+    "idPrestador": "134f582793ac4ab4910f15bf",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2732c9fa0e6a4af49a237a6b",
+    "idPrestador": "f78c5f6954b5468ea8e64de3",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "a305286e9cb24cdebd041c4d",
+    "idPrestador": "f78c5f6954b5468ea8e64de3",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "07cde137167e42d091b14011",
+    "idPrestador": "f78c5f6954b5468ea8e64de3",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "54bf810e92fd4d4eb0c5a89e",
+    "idPrestador": "f78c5f6954b5468ea8e64de3",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "4ce27d787acb43a7b2e9124d",
+    "idPrestador": "f78c5f6954b5468ea8e64de3",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6f0a9d0cc07d4d499fc1e01b",
+    "idPrestador": "59e729c9250f4b209d3dd41e",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "ab08e7a4e38d48daabb531f1",
+    "idPrestador": "59e729c9250f4b209d3dd41e",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "e4c123a702e24a1abdf3587e",
+    "idPrestador": "59e729c9250f4b209d3dd41e",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "80b5ca4dd4e4420ab96f255c",
+    "idPrestador": "59e729c9250f4b209d3dd41e",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a87bbf4a1e114dad9da01ac6",
+    "idPrestador": "59e729c9250f4b209d3dd41e",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "83404b3c38794906bef43407",
+    "idPrestador": "1992c326fdf94ab78522c6e9",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "b5a24822c5424da08b13d76b",
+    "idPrestador": "1992c326fdf94ab78522c6e9",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "d34717ad88a549229b4103b0",
+    "idPrestador": "1992c326fdf94ab78522c6e9",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "cc3bf606183c431480c31a15",
+    "idPrestador": "1992c326fdf94ab78522c6e9",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "aff2a719f4b24eccb15ddd69",
+    "idPrestador": "1992c326fdf94ab78522c6e9",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "98f436f11c2449b3a0d00441",
+    "idPrestador": "34b9cdd339784818a2573b1e",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "9abb52ab2d8f4c448cc82c36",
+    "idPrestador": "34b9cdd339784818a2573b1e",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "c10ca39263c3415f87893b0a",
+    "idPrestador": "34b9cdd339784818a2573b1e",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0f1d28494346424c899f727d",
+    "idPrestador": "34b9cdd339784818a2573b1e",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6cb0ecd91b364a078ec2b884",
+    "idPrestador": "34b9cdd339784818a2573b1e",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "57ada0276f984c539a7070a9",
+    "idPrestador": "3d40865546b444d78331e5f7",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "19616bcbba62424cb70935ee",
+    "idPrestador": "3d40865546b444d78331e5f7",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "f55d475d52394b3bab26c072",
+    "idPrestador": "3d40865546b444d78331e5f7",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "26cc38d87b6b4c4e98cba27d",
+    "idPrestador": "3d40865546b444d78331e5f7",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5217c12a1db14293b472def7",
+    "idPrestador": "3d40865546b444d78331e5f7",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "229e72c60c524e8bacbb213b",
+    "idPrestador": "f106c419fa4e40028ebcd261",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "00ea2d3100e044aba7494390",
+    "idPrestador": "f106c419fa4e40028ebcd261",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "306e57b3e7f545729b02c1de",
+    "idPrestador": "f106c419fa4e40028ebcd261",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d4bdd65bee664e2ca19ee853",
+    "idPrestador": "f106c419fa4e40028ebcd261",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1e995db5a5ef437db00f72e0",
+    "idPrestador": "f106c419fa4e40028ebcd261",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "ebc290dd38164fdeaed54a2b",
+    "idPrestador": "9973c10cdbd74ee1a51b1d2f",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "1a0e2d8c43d04abfaed85dd1",
+    "idPrestador": "9973c10cdbd74ee1a51b1d2f",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "30200906fe064dc8941a82de",
+    "idPrestador": "9973c10cdbd74ee1a51b1d2f",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6556becae86d4597af80fe65",
+    "idPrestador": "9973c10cdbd74ee1a51b1d2f",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "474a067bea7c4d4e86b7aa44",
+    "idPrestador": "9973c10cdbd74ee1a51b1d2f",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "56eca8a92b4f48108cf5b749",
+    "idPrestador": "b54cc60599524416a0f5cbfc",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "200489a0c7f5457380379c33",
+    "idPrestador": "b54cc60599524416a0f5cbfc",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "1b413617d0964e84b26d2c68",
+    "idPrestador": "b54cc60599524416a0f5cbfc",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e660f2027db9440ebf3a7384",
+    "idPrestador": "b54cc60599524416a0f5cbfc",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a61e2f50ce0145b99b576ead",
+    "idPrestador": "b54cc60599524416a0f5cbfc",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "66f3743384ed47889e81ad90",
+    "idPrestador": "2cb8694e0aba48c3928b0a48",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "dd1d7cc9040849d5a6d85085",
+    "idPrestador": "2cb8694e0aba48c3928b0a48",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "3882656d0ddb49c0b6ef1552",
+    "idPrestador": "2cb8694e0aba48c3928b0a48",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "22cb46db4bd6414c8c9a299b",
+    "idPrestador": "2cb8694e0aba48c3928b0a48",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6916684a65574e5fa7bfa0d8",
+    "idPrestador": "2cb8694e0aba48c3928b0a48",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d54c355456bc405cbfdebd39",
+    "idPrestador": "cc8a33bd22e3425cbb4b787c",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "ac05340afd61400197b426c6",
+    "idPrestador": "cc8a33bd22e3425cbb4b787c",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "33c01feb7bb04265b28ffb7b",
+    "idPrestador": "cc8a33bd22e3425cbb4b787c",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5b131a3841da4986bb3aeeb7",
+    "idPrestador": "cc8a33bd22e3425cbb4b787c",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d21f76190ad74ee5a73337c9",
+    "idPrestador": "cc8a33bd22e3425cbb4b787c",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "db16b28c62074afabb45e704",
+    "idPrestador": "27084f0a957b4188a5123e7d",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "38b11664c4cf4512994ccbd9",
+    "idPrestador": "27084f0a957b4188a5123e7d",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "a4eebdfbfcb845ddac5bb35c",
+    "idPrestador": "27084f0a957b4188a5123e7d",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "cdf5b1912cd34143a0395cd1",
+    "idPrestador": "27084f0a957b4188a5123e7d",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "ad8d7cdb489e45a88c5b8786",
+    "idPrestador": "27084f0a957b4188a5123e7d",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "fde0fa194cf64ddfae1a6c6f",
+    "idPrestador": "6c975eb767464cf6a0fcbafd",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "fd900dd471ae4dfb9cfcf66e",
+    "idPrestador": "6c975eb767464cf6a0fcbafd",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "1b9400c7ba25471e98768479",
+    "idPrestador": "6c975eb767464cf6a0fcbafd",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3e8a93eccaf143c8941cc93f",
+    "idPrestador": "6c975eb767464cf6a0fcbafd",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "330aacee078a4ae48af93bc7",
+    "idPrestador": "6c975eb767464cf6a0fcbafd",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "63120f82a026424fa435f6ad",
+    "idPrestador": "2b771a1f2bad4a0a9dc01bfe",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "c32250e0ae2a41b6a54a9389",
+    "idPrestador": "2b771a1f2bad4a0a9dc01bfe",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "4205c823dc0d4c99abb402ed",
+    "idPrestador": "2b771a1f2bad4a0a9dc01bfe",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9426343e47754fa9a0943a65",
+    "idPrestador": "2b771a1f2bad4a0a9dc01bfe",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a5d8d9d719fa475f9c36d5a2",
+    "idPrestador": "2b771a1f2bad4a0a9dc01bfe",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "59b5f76366d74e5ab4089322",
+    "idPrestador": "f0ceb946166b47ef9a4cfcfc",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "18b72c71b14049c080f906ef",
+    "idPrestador": "f0ceb946166b47ef9a4cfcfc",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "aabd1694b90046a78e4742e0",
+    "idPrestador": "f0ceb946166b47ef9a4cfcfc",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "22473ebf39544b1a836e2003",
+    "idPrestador": "f0ceb946166b47ef9a4cfcfc",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1a983321f4174b1c9a6d4ed9",
+    "idPrestador": "f0ceb946166b47ef9a4cfcfc",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "44ea40b9c6f9418b825ff1fe",
+    "idPrestador": "b8513d8cb5ca44f7b0066189",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "9545ce8e3ba94807bfd73c1b",
+    "idPrestador": "b8513d8cb5ca44f7b0066189",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "2bbb8172bf02445f92f15e4c",
+    "idPrestador": "b8513d8cb5ca44f7b0066189",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "40771972949a4ad689e3dcfb",
+    "idPrestador": "b8513d8cb5ca44f7b0066189",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c94e3e1276dc4c4583cbaed8",
+    "idPrestador": "b8513d8cb5ca44f7b0066189",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "664ba94d786e469482fb1208",
+    "idPrestador": "245ddb7140c7449ba24dc817",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "a0cb787f0efd43aa9aad9b62",
+    "idPrestador": "245ddb7140c7449ba24dc817",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "0cc48720be0c4b39bdc3a4ba",
+    "idPrestador": "245ddb7140c7449ba24dc817",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "42aa53b0d1264879af360df0",
+    "idPrestador": "245ddb7140c7449ba24dc817",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "44023df0558b40ad8e0fcec1",
+    "idPrestador": "245ddb7140c7449ba24dc817",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "80f6b375079f4e4880a99f11",
+    "idPrestador": "1b918dcbddbe4d938e5292f4",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "059b74a9c4ea4f82a84b30ec",
+    "idPrestador": "1b918dcbddbe4d938e5292f4",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "3700c437a26041b4a7170980",
+    "idPrestador": "1b918dcbddbe4d938e5292f4",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8af1a8744380468e9f5bd22c",
+    "idPrestador": "1b918dcbddbe4d938e5292f4",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2aef55236b634734a3b13c3b",
+    "idPrestador": "1b918dcbddbe4d938e5292f4",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "ba484f5641194161ab0d110f",
+    "idPrestador": "50b3ce7b562740508984f0a4",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "cfa5777ce1274cee95379c08",
+    "idPrestador": "50b3ce7b562740508984f0a4",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "ade0ce2ac44f423596823041",
+    "idPrestador": "50b3ce7b562740508984f0a4",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "77378132afed456c8f867b33",
+    "idPrestador": "50b3ce7b562740508984f0a4",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0a3bfe24a7c6480c8050721b",
+    "idPrestador": "50b3ce7b562740508984f0a4",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "72691d7252ea441c83bdc699",
+    "idPrestador": "79d05dde1b0a4892b5a33b2c",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "5215d54a2f2344b9aab6d15c",
+    "idPrestador": "79d05dde1b0a4892b5a33b2c",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "46d8cf5d0d66491d94ad9a32",
+    "idPrestador": "79d05dde1b0a4892b5a33b2c",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "436483198def451cb250e631",
+    "idPrestador": "79d05dde1b0a4892b5a33b2c",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "183b2f4f23094ed9abefb90e",
+    "idPrestador": "79d05dde1b0a4892b5a33b2c",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "66d02e849390437cb7983fdb",
+    "idPrestador": "92062f3d002f45b49938faa3",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "97ee7c6fa3794e279e6a9ee2",
+    "idPrestador": "92062f3d002f45b49938faa3",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "0bdaf3d18b8a417b92d531ea",
+    "idPrestador": "92062f3d002f45b49938faa3",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9c417d2832af49e8962f9a2a",
+    "idPrestador": "92062f3d002f45b49938faa3",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e6911043a9ea4faabe1b48dc",
+    "idPrestador": "92062f3d002f45b49938faa3",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "4c8813578e4a40a9a67ba14c",
+    "idPrestador": "9aaa73678d274002a0dcdf6d",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "d853aa357981497b83cab459",
+    "idPrestador": "9aaa73678d274002a0dcdf6d",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a456ee"
+  },
+  {
+    "_id": "6ce808097c5848ae8cb100c5",
+    "idPrestador": "9aaa73678d274002a0dcdf6d",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e9194ff5aba94906a6cc6ad8",
+    "idPrestador": "9aaa73678d274002a0dcdf6d",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "952351ebca7d4f6cb850d693",
+    "idPrestador": "9aaa73678d274002a0dcdf6d",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "25ca67df3cf047ffb1ae9fac",
+    "idPrestador": "6373f3a19f7d44658a663f50",
+    "fechaTurno": "2025-11-03T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45678"
+  },
+  {
+    "_id": "1fd6b1f3111b4743ace40789",
+    "idPrestador": "6373f3a19f7d44658a663f50",
+    "fechaTurno": "2025-11-10T15:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a45679"
+  },
+  {
+    "_id": "5ccb2ed28dac40cab3d37b96",
+    "idPrestador": "6373f3a19f7d44658a663f50",
+    "fechaTurno": "2025-11-17T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "03113446f8d6451b9f3df188",
+    "idPrestador": "6373f3a19f7d44658a663f50",
+    "fechaTurno": "2025-11-24T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "82398f16502848ccbd0856be",
+    "idPrestador": "6373f3a19f7d44658a663f50",
+    "fechaTurno": "2025-12-01T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3f2bb7bc48f64856ac7ab99e",
+    "idPrestador": "fd105ffc8af346739eaaa23f",
+    "fechaTurno": "2025-11-03T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567a"
+  },
+  {
+    "_id": "55ca0edfdb3848cea1b6819b",
+    "idPrestador": "fd105ffc8af346739eaaa23f",
+    "fechaTurno": "2025-11-10T16:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567b"
+  },
+  {
+    "_id": "643e57801f46499e88c329b3",
+    "idPrestador": "fd105ffc8af346739eaaa23f",
+    "fechaTurno": "2025-11-17T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c7d5c48d2ddd45b8a76aed48",
+    "idPrestador": "fd105ffc8af346739eaaa23f",
+    "fechaTurno": "2025-11-24T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "762769c506084fa9b1e59263",
+    "idPrestador": "fd105ffc8af346739eaaa23f",
+    "fechaTurno": "2025-12-01T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2a61b42965924606be6a3c51",
+    "idPrestador": "3f4996a81fc8407781a62edf",
+    "fechaTurno": "2025-11-03T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567c"
+  },
+  {
+    "_id": "b765a46390f5422a985e02a0",
+    "idPrestador": "3f4996a81fc8407781a62edf",
+    "fechaTurno": "2025-11-10T13:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567d"
+  },
+  {
+    "_id": "654e476a7749495ca54c64ac",
+    "idPrestador": "3f4996a81fc8407781a62edf",
+    "fechaTurno": "2025-11-17T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7eb1d6b45a6f41ad8b6b52fa",
+    "idPrestador": "3f4996a81fc8407781a62edf",
+    "fechaTurno": "2025-11-24T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f64a764c4c4b45be97badb0c",
+    "idPrestador": "3f4996a81fc8407781a62edf",
+    "fechaTurno": "2025-12-01T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "62865b4550c34c50a07ae7ef",
+    "idPrestador": "26456e254a574b2a943a5e9f",
+    "fechaTurno": "2025-11-03T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567e"
+  },
+  {
+    "_id": "82ad39f117a14929b0c41393",
+    "idPrestador": "26456e254a574b2a943a5e9f",
+    "fechaTurno": "2025-11-10T14:00:00Z",
+    "estado": "reservado",
+    "idAfiliado": "6717b1234f1a2b0012a4567f"
+  },
+  {
+    "_id": "f9008f7c55874398bfcca034",
+    "idPrestador": "26456e254a574b2a943a5e9f",
+    "fechaTurno": "2025-11-17T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e7afa7f774084c31841ad6c0",
+    "idPrestador": "26456e254a574b2a943a5e9f",
+    "fechaTurno": "2025-11-24T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "41ebeda832d84b87a2234cec",
+    "idPrestador": "26456e254a574b2a943a5e9f",
+    "fechaTurno": "2025-12-01T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9dc96a08f1985be65d958300",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a1",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1ffe917ffec70e135049e19d",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a1",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7bc4c9a4c7a8f8d3c398e1b1",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a2",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1e9278c9e242275b29a9f8ad",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a2",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5253e798974bce5474831781",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a3",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8cfa56144d46565689d47bdb",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a3",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e3e80dff4c40543444196a53",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a4",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "cb20f2155a1f05503e1187e7",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a4",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8871f1cb5abcaf83056aaa6b",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a5",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6c1a728d21ed94f8ccdc008a",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a5",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b6942dc12d855ab2b15d605c",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a6",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2136a02ffb3b1d9face5326a",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a6",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "87eb94f9606711ff16c7ace8",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a7",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "dbf571f87a5dcbaf5dc7f6c4",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a7",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "fb24035354ac454fab9daccb",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a8",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a7c11fa271b726e04603125e",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a8",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5ef19368d697518d9d065f52",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a9",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7b3da5ca27c3382f4145eed2",
+    "idPrestador": "652fa1b2f4a3c6a12d4e91a9",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "68a7c3e04dfeff4565d3a7a3",
+    "idPrestador": "adc03457be144b0f8d3a14b1",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1159e5406f287f7c656a1a25",
+    "idPrestador": "adc03457be144b0f8d3a14b1",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c966874fc17c0ee21c486d56",
+    "idPrestador": "2e14550c4e714329921f2443",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d9e3eaef2d0ef6cdd5b9d387",
+    "idPrestador": "2e14550c4e714329921f2443",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1bb58614611086ea32740250",
+    "idPrestador": "08f7ebc279b441b6831c0d8a",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e1f7ebd62f1b5331bd8a8cb5",
+    "idPrestador": "08f7ebc279b441b6831c0d8a",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "fcf76db14af02956c47bbcd5",
+    "idPrestador": "00019ca82ab84034b7eebaee",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b29e4bf8e99ae04cab997b63",
+    "idPrestador": "00019ca82ab84034b7eebaee",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5e2abd00e321fad203662b7e",
+    "idPrestador": "433baa740a084beeb17ebd88",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0a15ee1825f5879d65610076",
+    "idPrestador": "433baa740a084beeb17ebd88",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "4922a6251619c2585b41eb20",
+    "idPrestador": "7021d67664fe4502acc8233d",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2605acfeeaf5f3eb75e95fef",
+    "idPrestador": "7021d67664fe4502acc8233d",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "af7ffd7a0b2fc16d34225431",
+    "idPrestador": "42b627be8eba482ab17ecd3e",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "de7076ec288cecd1fd3ab95e",
+    "idPrestador": "42b627be8eba482ab17ecd3e",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e01c442d62a9b2f752c3f0cf",
+    "idPrestador": "074ce9f6976d4aa1bfeca9a3",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "30d34c9bd9e5ac1ee7a1f6ac",
+    "idPrestador": "074ce9f6976d4aa1bfeca9a3",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "56f67d003df78662a178cd19",
+    "idPrestador": "a7f244223af84cb7a554b83c",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "44a4d11a0ccfadcaa293cf68",
+    "idPrestador": "a7f244223af84cb7a554b83c",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "cd472dd7dd029b21f594c012",
+    "idPrestador": "ba0ff78a717941029aa9466c",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "01aa27dd32cbb6f2cdc80ba8",
+    "idPrestador": "ba0ff78a717941029aa9466c",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2b3f522e026d8073bfc4290d",
+    "idPrestador": "f049b3fb0e3d42bc9f3ec120",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "74e4c468d9abd0f346a7790b",
+    "idPrestador": "f049b3fb0e3d42bc9f3ec120",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d557e40a693e8389d033c576",
+    "idPrestador": "fd44e06513ff4b5fa223c959",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "cd28bf3b8583243799e4e438",
+    "idPrestador": "fd44e06513ff4b5fa223c959",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a7855ac378e11b787628088c",
+    "idPrestador": "0490a706a39b42f49347e9e4",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1160ff0ce06d2bfa8737ee89",
+    "idPrestador": "0490a706a39b42f49347e9e4",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d99de0e196d7327dee2bb352",
+    "idPrestador": "aa748cec4ba445e6a0adb91d",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "af4872fdcfc5171d5c35cbc8",
+    "idPrestador": "aa748cec4ba445e6a0adb91d",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "077052f3ca5494e75665a53e",
+    "idPrestador": "ca033f2025654db0bd6960b6",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "76f7158a9a7a55aa19bed5b4",
+    "idPrestador": "ca033f2025654db0bd6960b6",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2b738ae80134e4c495f305fb",
+    "idPrestador": "83a2529ef4f042e8b2c1b074",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2d0e6b880e71c85f7245ea3e",
+    "idPrestador": "83a2529ef4f042e8b2c1b074",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2a5ed2288b8861ec3346c020",
+    "idPrestador": "d0334a692919497982f66914",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "58b2b4a89bef378a7b781909",
+    "idPrestador": "d0334a692919497982f66914",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "eab7a8b163005b5f3bc5d0ab",
+    "idPrestador": "6a0dfee594a946e78eb7d511",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c85caf5b31debbe1b91f3bb8",
+    "idPrestador": "6a0dfee594a946e78eb7d511",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e7ca2407604326d9294cbf44",
+    "idPrestador": "46d69215ded340dd86e1aa71",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a2f2fa63c97d2eb88ab57075",
+    "idPrestador": "46d69215ded340dd86e1aa71",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "bbba1256152da54006ff590a",
+    "idPrestador": "880c96c672ea4a90ab6b55ef",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "29dbc2e31555edad36d31f96",
+    "idPrestador": "880c96c672ea4a90ab6b55ef",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "4a2ea2edfe76fd1f653bb53d",
+    "idPrestador": "4f6fd9104528486698ff0e12",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "06b7c84e9607cc2da33f06f7",
+    "idPrestador": "4f6fd9104528486698ff0e12",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3914a5b7b23b20bb7e168b60",
+    "idPrestador": "254b8f0d42544b8d8f3d8666",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b3b1452a1e18370ed3fb46a5",
+    "idPrestador": "254b8f0d42544b8d8f3d8666",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d6d3ee31dff0789674ba108a",
+    "idPrestador": "5b04b4f1a16545e2bf7b4007",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6063bb7a0c3bb6430e383a0b",
+    "idPrestador": "5b04b4f1a16545e2bf7b4007",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1387253347244470fc861bca",
+    "idPrestador": "91798115b7f74cf185e57687",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9f27aad383c1fc8935541f3a",
+    "idPrestador": "91798115b7f74cf185e57687",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9841559e4e3641e5dddb9a6f",
+    "idPrestador": "d1b2c1d2a696487a867bc194",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5500abe22f2ed765fc74283b",
+    "idPrestador": "d1b2c1d2a696487a867bc194",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "13dedf035a07336c0b62fbe5",
+    "idPrestador": "090c1f6c691c422a9b71d79d",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8ec63ac7a7603f72010049c8",
+    "idPrestador": "090c1f6c691c422a9b71d79d",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "17ac65db2b3f892fad265da5",
+    "idPrestador": "95feb22ef36c4af7b087fcf9",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9443f6302c655c7f1e171eac",
+    "idPrestador": "95feb22ef36c4af7b087fcf9",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3fc200cc20a9f31eefa41635",
+    "idPrestador": "668fb1c47a6c458fb67071f6",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "77df224b338f3c5a0f78544d",
+    "idPrestador": "668fb1c47a6c458fb67071f6",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "41837cb5b94c46bad3b7ea97",
+    "idPrestador": "b9ab941290be40c7a7ee18a2",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6b2fed47cb3130822d73aba6",
+    "idPrestador": "b9ab941290be40c7a7ee18a2",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "83ab7957e7dd280b845fc329",
+    "idPrestador": "bfaa0daf26ca47318e866d19",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e7d3d916389f7e2e1b68ab97",
+    "idPrestador": "bfaa0daf26ca47318e866d19",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1de61f465f11b0c9297c7452",
+    "idPrestador": "a5e26049b5b542c3a145e69d",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9cab012ea9cb961e0f7a64ec",
+    "idPrestador": "a5e26049b5b542c3a145e69d",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "4f1f0d4a0dc8dc4e2c048e11",
+    "idPrestador": "263c8d1eec6c4b7a8fdd9728",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b62591930f5b92c0162fed01",
+    "idPrestador": "263c8d1eec6c4b7a8fdd9728",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "75c4635f4e5fcb0ecd8e166d",
+    "idPrestador": "598702936dc94f3598578815",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d93bc466d898a7749e8c06eb",
+    "idPrestador": "598702936dc94f3598578815",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "fd995539344bd723b54dd0ee",
+    "idPrestador": "f0e44e02b67147d3b1c23c1b",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8599280830edef7cc7da9e67",
+    "idPrestador": "f0e44e02b67147d3b1c23c1b",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "06479b9624953c5100981438",
+    "idPrestador": "f2926ed893f2486abefc568c",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "ccab33bf396a4ecc884ffdff",
+    "idPrestador": "f2926ed893f2486abefc568c",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "81cc30b4cf173240bdcb6a39",
+    "idPrestador": "2b5dc6f04b864b99bc1f7f03",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "ac0c2a81704c08ecdbb96e5a",
+    "idPrestador": "2b5dc6f04b864b99bc1f7f03",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "fdb3c82cf74b76fc5f13651b",
+    "idPrestador": "3dbc2397afcd45a2aafba5dd",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "eb5faa96397e1576ee59f85a",
+    "idPrestador": "3dbc2397afcd45a2aafba5dd",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c2a72c2dbcd4be87fad93c4d",
+    "idPrestador": "ce10a1fb5b7f4b2a8449e455",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "93fc83c1913a4ea38664c69d",
+    "idPrestador": "ce10a1fb5b7f4b2a8449e455",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2afa211b6ba72a3f9ba56d08",
+    "idPrestador": "50feceec3a7d404292b98d50",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7acf7d8083d02d6f98979fc4",
+    "idPrestador": "50feceec3a7d404292b98d50",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9f81f9f65da32edd8a72af74",
+    "idPrestador": "3579a20489bc4a6bb715d440",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8f454cc09c13bebb62d93e15",
+    "idPrestador": "3579a20489bc4a6bb715d440",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "47975e5cf1ed26b730d2868e",
+    "idPrestador": "f1496390753a4877bc96d58f",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7ed44c9bd46e3ef72c104fa4",
+    "idPrestador": "f1496390753a4877bc96d58f",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "442634a871e1dad3b043950f",
+    "idPrestador": "17dd09b216284df29fac88cb",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2e2f2f669862bd5d8fec41fd",
+    "idPrestador": "17dd09b216284df29fac88cb",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "70f26a5e63356b3b42a1553c",
+    "idPrestador": "564b3109a2d7479e98f737a8",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e04d59a06aa83be417b3ff34",
+    "idPrestador": "564b3109a2d7479e98f737a8",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f5781ea8c7c73a697757016f",
+    "idPrestador": "bf6f7909c083485d947145c5",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "75465e83bf7198156dae80cd",
+    "idPrestador": "bf6f7909c083485d947145c5",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d42dc835ad134b97ae5644cc",
+    "idPrestador": "06db4409bfeb4bf3bab4da73",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "825d5375b815b6b06ea9cb11",
+    "idPrestador": "06db4409bfeb4bf3bab4da73",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c0caa4a894d431fc8a9b8f65",
+    "idPrestador": "bb05cbb7d06742cea0d8c7df",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "830f8fe2a70c3fd6e30edd4c",
+    "idPrestador": "bb05cbb7d06742cea0d8c7df",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d4a90bf1906dd15b8aa7c626",
+    "idPrestador": "caadb799432948f98370f13b",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a17f271823084ff49b133e56",
+    "idPrestador": "caadb799432948f98370f13b",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5acc2bb4be2186bcbd58ea80",
+    "idPrestador": "e67504664fcf4039a929fcd4",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "5b1a3bf9b99a12b0dbcf0fcf",
+    "idPrestador": "e67504664fcf4039a929fcd4",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "4574e8a2e1547278ead1629f",
+    "idPrestador": "6ed048d558ce4c34870f1943",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0eed4c7638d6c73186e97540",
+    "idPrestador": "6ed048d558ce4c34870f1943",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "cfd1c3b173c7e669ce16b7dc",
+    "idPrestador": "7f70035aaf9f4e54935c2a3f",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "aac60271eac050c6ccd2d361",
+    "idPrestador": "7f70035aaf9f4e54935c2a3f",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "93242ea762aa0c8e55712c1e",
+    "idPrestador": "08e71bb14c014bedbf1f1de7",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "26f92b2f1dec3a397739f066",
+    "idPrestador": "08e71bb14c014bedbf1f1de7",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a5e96cfc66ffdec2c5173929",
+    "idPrestador": "8dc19c4c371f4bd984b09253",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "dfff714405f89ee909aeb67c",
+    "idPrestador": "8dc19c4c371f4bd984b09253",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8a681e82c8a3be842f2cf1ef",
+    "idPrestador": "31620f5a67c04d0494481c15",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "720c04205b2fecc3b957e468",
+    "idPrestador": "31620f5a67c04d0494481c15",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e166d3020ed9fc362b7a1832",
+    "idPrestador": "bfd8e1f7b22f4f15b2d4be75",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "85fa60a0e9e9bce21171e491",
+    "idPrestador": "bfd8e1f7b22f4f15b2d4be75",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7d85216145e50712ca21c32a",
+    "idPrestador": "6f2fbaa0243e4186a7245a6d",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c693fb13658c96fd0c345933",
+    "idPrestador": "6f2fbaa0243e4186a7245a6d",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "04ef6db58394b82b985ed03e",
+    "idPrestador": "c4cec548cd5147a992af2e0b",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "46b65124cb91203af8b33064",
+    "idPrestador": "c4cec548cd5147a992af2e0b",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1e88bcab49ca3ee2361879fa",
+    "idPrestador": "1184add593244b81823ddadf",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8d269fc75909055aebb28a1f",
+    "idPrestador": "1184add593244b81823ddadf",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6815e9089f4b9f18963b6f04",
+    "idPrestador": "d57eef1a69374e44bd12d4e3",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f0d520611fd3be36cc4fa4f7",
+    "idPrestador": "d57eef1a69374e44bd12d4e3",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "311a73a4908fbf78ac8141db",
+    "idPrestador": "3c0c1453d1cb43129bc21877",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a251b111d170eaff86a75f4a",
+    "idPrestador": "3c0c1453d1cb43129bc21877",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "1bb5b263c3247af85538d9f5",
+    "idPrestador": "134f582793ac4ab4910f15bf",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "034c106b42b131f4405c4a4f",
+    "idPrestador": "134f582793ac4ab4910f15bf",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "b00a2dbae3b6014f6f1c18ef",
+    "idPrestador": "f78c5f6954b5468ea8e64de3",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a2c663c06e4f52bf708fc0e8",
+    "idPrestador": "f78c5f6954b5468ea8e64de3",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d93a4f1c9bec0eaa83ea445a",
+    "idPrestador": "59e729c9250f4b209d3dd41e",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "294c87a2dbd294d1ea978771",
+    "idPrestador": "59e729c9250f4b209d3dd41e",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "369e2627f60beb441b62cabe",
+    "idPrestador": "1992c326fdf94ab78522c6e9",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "abb1f73332c72f7a0e85ee57",
+    "idPrestador": "1992c326fdf94ab78522c6e9",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "9961c36f92b7eafce0aed5a2",
+    "idPrestador": "34b9cdd339784818a2573b1e",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "239b183c87ec5f564073ecc2",
+    "idPrestador": "34b9cdd339784818a2573b1e",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c3a92b20165437697557a478",
+    "idPrestador": "3d40865546b444d78331e5f7",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0b8245967ce5499edbe1817c",
+    "idPrestador": "3d40865546b444d78331e5f7",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6d8fbf01f069c7c17725a2cb",
+    "idPrestador": "f106c419fa4e40028ebcd261",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d98c09b7672a02655050fc05",
+    "idPrestador": "f106c419fa4e40028ebcd261",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f9fccb3742a99687aa9495a4",
+    "idPrestador": "9973c10cdbd74ee1a51b1d2f",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "41d9fd52f86a11fb4aa3ee23",
+    "idPrestador": "9973c10cdbd74ee1a51b1d2f",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "2a6ec5b7d63627ad00341ed9",
+    "idPrestador": "b54cc60599524416a0f5cbfc",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3262190565e2db31cbe9e356",
+    "idPrestador": "b54cc60599524416a0f5cbfc",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "aae7ee9af5e7e893dd30a411",
+    "idPrestador": "2cb8694e0aba48c3928b0a48",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "7d336db95c6648f6b2d568e6",
+    "idPrestador": "2cb8694e0aba48c3928b0a48",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8f734c8fd0842570e2e3a252",
+    "idPrestador": "cc8a33bd22e3425cbb4b787c",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "0ec31893b1e5399a66cdf5be",
+    "idPrestador": "cc8a33bd22e3425cbb4b787c",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "f25d19821bf45297388e3635",
+    "idPrestador": "27084f0a957b4188a5123e7d",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "df87ea0c0c68b9057a179ab2",
+    "idPrestador": "27084f0a957b4188a5123e7d",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "fd6ebcc8216ff7cd9a6f7acd",
+    "idPrestador": "6c975eb767464cf6a0fcbafd",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8acad7ccd8d09d7361d3139f",
+    "idPrestador": "6c975eb767464cf6a0fcbafd",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8a1c3ab73c13a9d79dc9cc13",
+    "idPrestador": "2b771a1f2bad4a0a9dc01bfe",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e25ea589349971400acc67e7",
+    "idPrestador": "2b771a1f2bad4a0a9dc01bfe",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6368393a6044fc215c487941",
+    "idPrestador": "f0ceb946166b47ef9a4cfcfc",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "cc1375fea13a1cec73006234",
+    "idPrestador": "f0ceb946166b47ef9a4cfcfc",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e4238409c175e51bdd679c78",
+    "idPrestador": "b8513d8cb5ca44f7b0066189",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "179aa7f9ce59b87eaef696ce",
+    "idPrestador": "b8513d8cb5ca44f7b0066189",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8d15b4b79a43fce1698a93af",
+    "idPrestador": "245ddb7140c7449ba24dc817",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e8a25586a2f9f41a84ab93ca",
+    "idPrestador": "245ddb7140c7449ba24dc817",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "e0e7ffd3d766e59556625e32",
+    "idPrestador": "1b918dcbddbe4d938e5292f4",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "d964bf0b1279675d94403fde",
+    "idPrestador": "1b918dcbddbe4d938e5292f4",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "82e583c5ded3be1dc5f1444e",
+    "idPrestador": "50b3ce7b562740508984f0a4",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "a43e691a5f0a6599dde7047e",
+    "idPrestador": "50b3ce7b562740508984f0a4",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "75bef716e20aa881e2571538",
+    "idPrestador": "79d05dde1b0a4892b5a33b2c",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3239b079f946e7b05cd5afd3",
+    "idPrestador": "79d05dde1b0a4892b5a33b2c",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "c4b93a9bde0c62bbb2354ef0",
+    "idPrestador": "92062f3d002f45b49938faa3",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "8c576a38a654e79dd98929c9",
+    "idPrestador": "92062f3d002f45b49938faa3",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "61ea31c9f1f3466e2cd11d3e",
+    "idPrestador": "9aaa73678d274002a0dcdf6d",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "ff8b84e65b18a3e2cc30c64b",
+    "idPrestador": "9aaa73678d274002a0dcdf6d",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "957f978258cb2e6f0df118d7",
+    "idPrestador": "6373f3a19f7d44658a663f50",
+    "fechaTurno": "2025-12-05T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "3c0c78df40254bf0432b1247",
+    "idPrestador": "6373f3a19f7d44658a663f50",
+    "fechaTurno": "2025-12-10T15:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "43929c417c87fb3bda080ef0",
+    "idPrestador": "fd105ffc8af346739eaaa23f",
+    "fechaTurno": "2025-12-05T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "40291332e5bd2598a7a09704",
+    "idPrestador": "fd105ffc8af346739eaaa23f",
+    "fechaTurno": "2025-12-10T16:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "196bc06c59ec7cd661dc4ada",
+    "idPrestador": "3f4996a81fc8407781a62edf",
+    "fechaTurno": "2025-12-05T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "6eeb00cbe8b771ba28b97f2d",
+    "idPrestador": "3f4996a81fc8407781a62edf",
+    "fechaTurno": "2025-12-10T13:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "4fd3844906432082c08908ce",
+    "idPrestador": "26456e254a574b2a943a5e9f",
+    "fechaTurno": "2025-12-05T14:00:00Z",
+    "estado": "disponible"
+  },
+  {
+    "_id": "44616ad41b3bd8b3f025b10d",
+    "idPrestador": "26456e254a574b2a943a5e9f",
+    "fechaTurno": "2025-12-10T14:00:00Z",
+    "estado": "disponible"
+  }
+
+]

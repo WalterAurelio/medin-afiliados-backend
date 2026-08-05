@@ -1,0 +1,203 @@
+[
+  {
+    "idAfiliado": "6717b1234f1a2b0012a45678",
+    "paraAfiliado": "Carlos González",
+    "nroAfiliado": "000001-01",
+    "fechaSolicitud": "2025-12-13T10:00:00.000Z",
+    "practica": "Resonancia magnética",
+    "especialidad": "Neurología",
+    "medicoSolicitante": "Juan Pérez",
+    "lugarAtencion": "Hospital Central",
+    "diagnostico": "Dolor de cabeza crónico",
+    "observaciones": [
+      {
+        "emisor": "650f1d2a3b4c5d6e7f8a9012",
+        "rolEmisor": "Afiliado",
+        "descripcion": "Solicito prioridad por síntomas graves",
+        "fecha": "2025-11-29T12:00:00.000Z"
+      }
+    ],
+    "diasDeInternacion": 3,
+    "estado": "pendiente"
+  },
+  {
+    "idAfiliado": "6717b1234f1a2b0012a45678",
+    "paraAfiliado": "Carlos González",
+    "nroAfiliado": "000001-01",
+    "fechaSolicitud": "2025-12-15T10:00:00.000Z",
+    "practica": "Resonancia magnética",
+    "especialidad": "Neurología",
+    "medicoSolicitante": "Juan Pérez",
+    "lugarAtencion": "Hospital Central",
+    "diagnostico": "Dolor de cabeza crónico",
+    "observaciones": [
+      {
+        "emisor": "650f1d2a3b4c5d6e7f8a9012",
+        "rolEmisor": "Prestador",
+        "fecha": "2025-12-09T12:00:00.000Z",
+        "descripcion": "Solicitar previamente una consulta neurológica"
+      }
+    ],
+    "diasDeInternacion": 3,
+    "estado": "observado"
+  },
+  {
+    "idAfiliado": "6717b1234f1a2b0012a45679",
+    "paraAfiliado": "Laura Martínez",
+    "nroAfiliado": "000001-02",
+    "fechaSolicitud": "2025-12-16T11:30:00.000Z",
+    "practica": "Ecografía abdominal",
+    "especialidad": "Medicina General",
+    "medicoSolicitante": "María Gómez",
+    "lugarAtencion": "Clínica Norte",
+    "diagnostico": "Dolor abdominal",
+    "observaciones": [],
+    "diasDeInternacion": 1,
+    "estado": "pendiente"
+  },
+  {
+    "idAfiliado": "6717b1234f1a2b0012a45678",
+    "paraAfiliado": "Carlos González",
+    "nroAfiliado": "000001-01",
+    "fechaSolicitud": "2025-12-20T09:00:00.000Z",
+    "practica": "Tomografía computarizada",
+    "especialidad": "Cardiología",
+    "medicoSolicitante": "Alberto Ruiz",
+    "lugarAtencion": "Hospital Central",
+    "diagnostico": "Traumatismo leve",
+    "observaciones": [
+      {
+        "emisor": "650f1d2a3b4c5d6e7f8a9013",
+        "rolEmisor": "Prestador",
+        "descripcion": "Enviar estudios previos",
+        "fecha": "2025-12-03T10:00:00.000Z"
+      }
+    ],
+    "diasDeInternacion": 2,
+    "estado": "observado"
+  },
+  {
+    "idAfiliado": "6717b1234f1a2b0012a4567d",
+    "paraAfiliado": "Julián Rossi",
+    "nroAfiliado": "000003-01",
+    "fechaSolicitud": "2025-12-25T08:00:00.000Z",
+    "practica": "Electrocardiograma",
+    "especialidad": "Cardiología",
+    "medicoSolicitante": "Luis Torres",
+    "lugarAtencion": "Clínica Sur",
+    "diagnostico": "Palpitaciones",
+    "observaciones": [],
+    "diasDeInternacion": 0,
+    "estado": "aceptado",
+    "updatedAt": "2025-11-27T11:00:00.000Z"
+  },
+  {
+    "idAfiliado": "6717b1234f1a2b0012a4567f",
+    "paraAfiliado": "Lucas Fernández",
+    "nroAfiliado": "000004-02",
+    "fechaSolicitud": "2025-12-17T14:00:00.000Z",
+    "practica": "Resonancia de columna",
+    "especialidad": "Traumatología",
+    "medicoSolicitante": "Claudia Fernández",
+    "lugarAtencion": "Hospital Norte",
+    "diagnostico": "Dolor lumbar",
+    "observaciones": [
+      {
+        "emisor": "650f1d2a3b4c5d6e7f8a9014",
+        "rolEmisor": "Afiliado",
+        "descripcion": "Verificar cobertura",
+        "fecha": "2025-11-28T15:00:00.000Z"
+      }
+    ],
+    "diasDeInternacion": 0,
+    "estado": "pendiente"
+  },
+  {
+    "idAfiliado": "6717b1234f1a2b0012a4567e",
+    "paraAfiliado": "Valentina Fernández",
+    "nroAfiliado": "000004-01",
+    "fechaSolicitud": "2025-12-08T09:30:00.000Z",
+    "practica": "Análisis de sangre",
+    "especialidad": "Medicina general",
+    "medicoSolicitante": "Ricardo López",
+    "lugarAtencion": "Laboratorio Central",
+    "diagnostico": "Chequeo general",
+    "observaciones": [],
+    "diasDeInternacion": 0,
+    "estado": "aceptado",
+    "updatedAt": "2025-11-30T11:00:00.000Z"
+  },
+  {
+    "idAfiliado": "6717b1234f1a2b0012a45678",
+    "paraAfiliado": "Carlos González",
+    "nroAfiliado": "000001-01",
+    "fechaSolicitud": "2025-12-07T10:45:00.000Z",
+    "practica": "Tomografía torácica",
+    "especialidad": "Cardiología",
+    "medicoSolicitante": "Esteban Díaz",
+    "lugarAtencion": "Hospital Central",
+    "diagnostico": "Tos persistente",
+    "observaciones": [
+      {
+        "emisor": "650f1d2a3b4c5d6e7f8a9015",
+        "rolEmisor": "Prestador",
+        "descripcion": "Rechazado por no presentar historial previo",
+        "fecha": "2025-12-03T11:00:00.000Z"
+      }
+    ],
+    "diasDeInternacion": 3,
+    "estado": "rechazado",
+    "updatedAt": "2025-12-03T11:00:00.000Z"
+  },
+  {
+    "idAfiliado": "6717b1234f1a2b0012a4567a",
+    "paraAfiliado": "Sofía González",
+    "nroAfiliado": "000001-03",
+    "fechaSolicitud": "2025-12-11T08:30:00.000Z",
+    "practica": "Ultrasonido renal",
+    "especialidad": "Medicina General",
+    "medicoSolicitante": "Gabriela Morales",
+    "lugarAtencion": "Clínica Norte",
+    "diagnostico": "Dolor lumbar",
+    "observaciones": [],
+    "diasDeInternacion": 1,
+    "estado": "pendiente"
+  },
+  {
+    "idAfiliado": "6717b1234f1a2b0012a4567d",
+    "paraAfiliado": "Julián Rossi",
+    "nroAfiliado": "000003-01",
+    "fechaSolicitud": "2025-12-06T09:15:00.000Z",
+    "practica": "Biopsia de piel",
+    "especialidad": "Dermatología",
+    "medicoSolicitante": "Mario Sánchez",
+    "lugarAtencion": "Hospital Sur",
+    "diagnostico": "Dermatitis herpetiforme",
+    "observaciones": [
+      {
+        "emisor": "650f1d2a3b4c5d6e7f8a9016",
+        "rolEmisor": "Prestador",
+        "fecha": "2025-12-01T10:00:00.000Z",
+        "descripcion": "Presentar pedido de estudio"
+      }
+    ],
+    "diasDeInternacion": 2,
+    "estado": "observado",
+    "updatedAt": "2025-12-01T09:00:00.000Z"
+  },
+  {
+    "idAfiliado": "6717b1234f1a2b0012a45679",
+    "paraAfiliado": "Laura Martínez",
+    "nroAfiliado": "000001-02",
+    "fechaSolicitud": "2025-12-17T07:45:00.000Z",
+    "practica": "Prueba de esfuerzo",
+    "especialidad": "Cardiología",
+    "medicoSolicitante": "Ana Rodríguez",
+    "lugarAtencion": "Clínica Sur",
+    "diagnostico": "Fatiga al caminar",
+    "observaciones": [],
+    "diasDeInternacion": 1,
+    "estado": "aceptado",
+    "updatedAt": "2025-12-04T09:00:00.000Z"
+  }
+]

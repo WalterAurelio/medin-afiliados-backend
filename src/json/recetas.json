@@ -1,0 +1,137 @@
+[
+  {
+    "nroAfiliado": "000001-01",
+    "paraAfiliado": "Carlos González",
+    "idAfiliado": "6717b1234f1a2b0012a45678",
+    "medicamento": "Ibuprofeno 600mg",
+    "cantidad": 5,
+    "presentacion": "Tabletas",
+    "createdAt": "2025-11-08T10:15:00.000Z",
+    "updatedAt": "2025-11-08T10:15:00.000Z",
+    "observaciones": [
+      {
+        "idEmisor": "650f1d2a3b4c5d6e7f8a9012",
+        "rolEmisor": "Afiliado",
+        "descripcion": "Tomar después de las comidas",
+        "fecha": "2025-11-08T12:00:00.000Z"
+      }
+    ],
+    "estado": "pendiente"
+  },
+  {
+    "nroAfiliado": "000001-01",
+    "paraAfiliado": "Carlos González",
+    "idAfiliado": "6717b1234f1a2b0012a45678",
+    "medicamento": "Losartán",
+    "cantidad": 2,
+    "presentacion": "Cápsulas",
+    "createdAt": "2025-11-09T14:30:00.000Z",
+    "observaciones": [],
+    "estado": "aceptado",
+    "updatedAt": "2025-11-22T09:00:00.000Z"
+  },
+
+  {
+    "nroAfiliado": "000001-01",
+    "paraAfiliado": "Carlos González",
+    "idAfiliado": "6717b1234f1a2b0012a45678",
+    "medicamento": "Metamizol",
+    "cantidad": 4,
+    "presentacion": "Tabletas",
+    "createdAt": "2025-11-10T12:30:00.000Z",
+    "observaciones": [
+      {
+        "idEmisor": "652fa1b2f4a3c6a12d4e91b2",
+        "rolEmisor": "Prestador",
+        "descripcion": "Informar la dosis diaria",
+        "fecha": "2025-11-10T14:00:00.000Z"
+      }
+    ],
+    "estado": "observado",
+    "updatedAt": "2025-11-10T09:00:00.000Z"
+  },
+
+  {
+    "nroAfiliado": "000001-02",
+    "paraAfiliado": "Laura Martínez",
+    "idAfiliado": "6717b1234f1a2b0012a45679",
+    "medicamento": "Amoxidal Duo",
+    "cantidad": 12,
+    "presentacion": "Cápsulas",
+    "createdAt": "2025-11-08T09:20:00.000Z",
+    "observaciones": [
+      {
+        "idEmisor": "652fa1b2f4a3c6a12d4e91a1",
+        "rolEmisor": "Prestador",
+        "descripcion": "Indicar si es tratamiento de 7 o 10 días.",
+        "fecha": "2025-11-08T11:00:00.000Z"
+      }
+    ],
+    "estado": "observado",
+    "updatedAt": "2025-11-08T09:00:00.000Z"
+  },
+  {
+    "nroAfiliado": "000001-02",
+    "paraAfiliado": "Laura Martínez",
+    "idAfiliado": "6717b1234f1a2b0012a45679",
+    "medicamento": "Diclofenac 50mg",
+    "cantidad": 10,
+    "presentacion": "Comprimidos",
+    "createdAt": "2025-11-09T15:00:00.000Z",
+    "updatedAt": "2025-11-09T15:00:00.000Z",
+    "observaciones": [],
+    "estado": "pendiente"
+  },
+
+  {
+    "nroAfiliado": "000001-03",
+    "paraAfiliado": "Sofía González",
+    "idAfiliado": "6717b1234f1a2b0012a4567a",
+    "medicamento": "Desloratadina",
+    "cantidad": 1,
+    "presentacion": "Jarabe",
+    "createdAt": "2025-11-08T14:40:00.000Z",
+    "observaciones": [
+      {
+        "idEmisor": "652fa1b2f4a3c6a12d4e91b2",
+        "rolEmisor": "Prestador",
+        "descripcion": "No se puede autorizar esta receta porque el medicamento no está incluido en su plan de cobertura.",
+        "fecha": "2025-11-23T15:00:00.000Z"
+      }
+    ],
+    "estado": "rechazado",
+    "updatedAt": "2025-11-23T09:00:00.000Z"
+  },
+  {
+    "nroAfiliado": "000001-01",
+    "paraAfiliado": "Carlos González",
+    "idAfiliado": "6717b1234f1a2b0012a45678",
+    "medicamento": "Amoxidal 100mg",
+    "cantidad": 1,
+    "presentacion": "Cápsulas",
+    "createdAt": "2025-11-12T14:40:00.000Z",
+    "observaciones": [
+      {
+        "idEmisor": "652fa1b2f4a3c6a12d4e91b2",
+        "rolEmisor": "Prestador",
+        "descripcion": "No se puede autorizar sin presentar la autorización del profesional correspondiente.",
+        "fecha": "2025-11-20T15:00:00.000Z"
+      }
+    ],
+    "estado": "rechazado",
+    "updatedAt": "2025-11-20T09:00:00.000Z"
+  },
+
+  {
+    "nroAfiliado": "000001-03",
+    "paraAfiliado": "Sofía González",
+    "idAfiliado": "6717b1234f1a2b0012a4567a",
+    "medicamento": "Salbutamol Inhalador",
+    "cantidad": 1,
+    "presentacion": "Inhalador",
+    "createdAt": "2025-11-11T08:30:00.000Z",
+    "observaciones": [],
+    "estado": "aceptado",
+    "updatedAt": "2025-11-24T09:00:00.000Z"
+  }
+]
