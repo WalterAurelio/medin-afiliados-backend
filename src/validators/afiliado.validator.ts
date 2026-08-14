@@ -1,5 +1,5 @@
 import Afiliado from '../models/Afiliado';
-import { GetAfiliadoDTO } from '../dtos/afiliados.dto';
+import { GetAfiliadoDTO, IAfiliadoPopulated } from '../dtos/afiliados.dto';
 import { ERROR_MESSAGES } from '../utils/errorMessages';
 
 
@@ -11,7 +11,7 @@ export const getAfiliadoByDocumento = async (nroDocumento: string) => {
       return { status: 404, body: { message: 'No se encontró el afiliado.' } };
     }
 
-    const unAfiliadoDTO = new GetAfiliadoDTO(unAfiliado);
+    const unAfiliadoDTO = new GetAfiliadoDTO(unAfiliado as unknown as IAfiliadoPopulated);
     return { status: 200, body: { data: unAfiliadoDTO } };
   } catch (error) {
     const message = ERROR_MESSAGES.GENERAL.UNKNOWN(error);
